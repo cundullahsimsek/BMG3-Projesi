@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bilgi Yarışması</string>
+
+    <string name="start">Başla</string>
+    <string name="user">Yeni Kullanıcı</string>
+    <string name="scor">Skor</string>
+    <string name="exit">Çıkış</string>
+    <string name="ornek_soru">
+        Aşağıdakilerden hangisi yanlıştır?
+        Hedef sistemlerde bilgi toplama işlemini Aktif yada Pasif bilgi toplama şeklinde yapabiliriz. Aşağıdakilerden hangisi yanlıştır?
+        Hedef sistemlerde bilgi toplama işlemini Aktif yada Pasif bilgi toplama şeklinde yapabiliriz.
+    </string>
+    <string name="title_activity_scor_screen">ScorScreen</string>
+    <string name="banner1_id">ca-app-pub-1813054253366054/8060845327</string>
+    <string name="banner2_id">ca-app-pub-1813054253366054/6494236922</string>
+    <string name="interstitialAd_id">ca-app-pub-1813054253366054/9366978125</string>
+    <string name="interstitialAd_id2">ca-app-pub-1813054253366054/9851534523</string>
+    <string name="notConnection">En az bir kere internete bağlanınız ve uygulamayı yeniden başlatınız.</string>
+    <string name="firstNotConnection">Lütfen internet bağlantınızı kontrol ediniz ...</string>
+    <string name="add_username">Lütfen isminizi giriniz ...</string>
+    <string name="update_username">İsminizi değiştiriniz ...</string>
+    <string name="title_activity_show_level">ShowLevel</string>
+    <integer name="grid_span">3</integer>
+    <string name="my_app_link">https://play.google.com/store/apps/details?id=emregltkn.bilgiyarismasi.com</string>
+</resources>

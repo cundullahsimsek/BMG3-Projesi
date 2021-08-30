@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cundullah/Desktop/Bitirme projeleri/BilgiYarismasi/BilgiYarismasi/app/src/main/res/layout/section_header.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/activity_quiz_results.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/activity_quiz_screen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/activity_scor_screen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/activity_show_level.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/cardview_recycler.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/custom_gridview.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/custom_save_name_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/custom_select_user_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/custom_time_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/custom_toolbar.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/custom_user_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/dialog_loading.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/dialog_success.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/gameover_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/scor_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/EmreGltkn/Desktop/MobileApps/Projects/BilgiYarismasi/app/src/main/res/layout/section_header.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

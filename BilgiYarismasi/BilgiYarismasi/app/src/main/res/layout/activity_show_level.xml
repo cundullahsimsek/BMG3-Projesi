@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/view_recycler_level"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:gravity="center"
+            android:horizontalSpacing="2dp"
+            android:verticalSpacing="5dp" />
+
+
+        <LinearLayout
+            android:id="@+id/view_lin"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_marginBottom="2dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="20dp"
+                android:id="@+id/view_back"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Geri"
+                android:background="@color/colorPrimary"
+                android:onClick="clicksLevel"
+                android:textColor="#fff" />
+
+            <Button
+                android:layout_marginBottom="2dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/view_play"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Oyna"
+                android:background="@color/colorPrimary"
+                android:onClick="clicksLevel"
+                android:textColor="#fff"
+                android:layout_gravity="right|center_vertical" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+    </LinearLayout>
+</LinearLayout>

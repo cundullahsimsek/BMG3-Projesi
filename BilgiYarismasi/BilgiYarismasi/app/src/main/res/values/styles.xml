@@ -1,0 +1,51 @@
+<resources>
+
+    <style name="SpecialTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="titleTextColor">#fff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="dialog_name" parent="Base.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_shape</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="dialog_user_name" parent="Base.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_shape</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/animation_scor_up</item>
+        <item name="android:windowExitAnimation">@anim/animation_scor_bottom</item>
+    </style>
+    <style name="DialogAnimation1">
+        <item name="android:windowEnterAnimation">@anim/tebrikler</item>
+        <item name="android:windowExitAnimation">@anim/tebrikler_close</item>
+    </style>
+</resources>

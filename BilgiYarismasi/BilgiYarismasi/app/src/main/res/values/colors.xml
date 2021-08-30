@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="exam_screen_background">#fff</color>
+
+    <color name="button_blue">#00B0FF</color>
+    <color name="button_green">#64DD17</color>
+    <color name="button_red">#D50000</color>
+
+    <color name="sari">#FFEB3B</color>
+    <color name="dialog_background">#00897B</color>
+    <color name="dialog_username_background">#00897B</color>
+
+    <color name="level_passive">#9E9E9E</color>
+    <color name="level_active">#FF5722</color>
+</resources>
